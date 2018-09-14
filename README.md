@@ -1,6 +1,6 @@
-# AMPR-Reader
+# ANPR-Reader
 
-> Please note that this project was written very quickly as a proof of concept, and should not be used as the code is very poor.
+This is an automatic number plate recognition project that I created to test my own algorithm. There are directorys for version 1 and version 2 of the software. Version 2 is a rewritten version which much neater code, however version 1 seems to have a much better success rate on reading plates.
 
 # The Project
 
