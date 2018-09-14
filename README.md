@@ -2,6 +2,8 @@
 
 This is an automatic number plate recognition project that I created to test my own algorithm. There are directorys for version 1 and version 2 of the software. Version 2 is a rewritten version which much neater code, however version 1 seems to have a much better success rate on reading plates.
 
+There are some example images left in the project for testing. These have been taken off of google images and should not be used for any other purpose than testing the project. If you are the owner of these images, and would like me to remove them please contact me.
+
 # The Project
 
 For this project I set out to read UK car number plates using my own algorithm in java. The project worked semi-successfully being able to read individual letters with quite good accuracy. In the future I would need to add the ability to read other letters (which would be trivial) as well as locating the number plate in a picture (which I beleive would be more difficult)
